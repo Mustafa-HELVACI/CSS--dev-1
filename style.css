@@ -1,0 +1,39 @@
+.anabaslik {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family: "Quicksand", sans-serif;
+}
+
+h5 {
+    font-size: larger;
+    color: #570014;
+    font-style: italic;
+}
+
+ul {
+    text-align: center;
+    display: inline;
+    font-size: larger;
+    list-style-position: inside;
+}
+
+.marka {
+    color: #79447e;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+ol {
+    display: inline;
+    font-size: larger;
+    list-style-position: inside;
+}
+
+.picture {
+    width: 100px;
+    height: 100px;
+}
